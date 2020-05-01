@@ -49,7 +49,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rudrasohan
-- icon: Medium
+- icon: medium
   icon_pack: fab
   link: https://medium.com/@sohanrudra
 
