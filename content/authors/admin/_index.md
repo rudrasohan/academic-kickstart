@@ -15,7 +15,7 @@ role: Graduate Student at the Department of Mathematics
 # Organizations/Affiliations
 organizations:
 - name: Indian Institute of Technology Kharagpur
-  url: ""
+  url: http://www.iitkgp.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Robotics and Computational Mathematics.
@@ -37,9 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/14OtylPBPtaTOGUdGdogyjJbEo6kT9w8h/view?usp=sharing
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rudrasohan

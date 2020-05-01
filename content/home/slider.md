@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello :smile:"
-  content = "I am center aligned "
+  title = "Hello"
+  # content = "I am center aligned "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -37,7 +37,7 @@ height = ""
 [[item]]
   title = "नमस्ते"
   # content = "I am left aligned :smile:"
-  align = "left"
+  align = "center"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
@@ -46,7 +46,7 @@ height = ""
 [[item]]
   title = "নমস্কার"
   # content = "I am right aligned :smile:"
-  align = "right"
+  align = "center"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
