@@ -1,13 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Design and Implementation of Autonomous Ground Vehicle for Constrained Environments"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- G Rahul Kranti Kiran
+- Indu Kant Deo
+- Sanskar Agrawal
+- Siddhant Haldar
+- Het Shah,
+- Harsh Maheshwari 
+- Aditya Rathore
+- Poojan Shah
+- Ashwin Nehete
+- Debashish Chakravarty
+
+date: "2019-02-25T00:00:00Z"
+doi: "https://doi.org/10.1109/IRC.2019.00043"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-03-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,34 +26,34 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Third IEEE International Conference on Robotic Computing*
+publication_short: In *IEEE-IRC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The design, development and validation of the Eklavya 6.0 have been presented in this paper. Eklavya 6.0, a three-wheeled differential drive autonomous robot which can navigate to prespecified GPS coordinates as well as through lanes was developed to participate in the Autonomous Navigation Challenge of the 26th Intelligent Ground Vehicle Competition(IGVC). The mechanical, electronic, software architecture sub-modules including localization, lane detection navigation and motion planning have been discussed.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The system paper for Eklavya 6.0. A bot capable of autonomously traversing a grassy landscape along with obstacle avoidance. 
 
 tags:
-- Source Themes
+- Robotics
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Paper
+  url: https://ieeexplore.ieee.org/abstract/document/8675619
+url_pdf: http://anandjhunjhunwala.com/wp-content/uploads/2019/09/IGVCstructure_2018.pdf
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+url_video: https://www.youtube.com/watch?v=nu-RGhk0T80
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Eklavya 6.0"
   focal_point: ""
   preview_only: false
 
@@ -53,17 +63,17 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- Autonomous Ground Vehicle
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -71,5 +81,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
 
