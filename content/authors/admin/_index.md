@@ -23,6 +23,7 @@ bio: My research interests include Deep Learning, Robotics and Computational Mat
 interests:
 - Artificial Intelligence
 - Machine Learning
+- Computer Vision
 - Robotics
 
 education:
@@ -70,4 +71,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a final year graduate-student at IIT Kharagpur traversing the distance between intuitions and equations. Pondering over life, sometimes I find comfort on the printed page and sometimes in a tête-à-tête. Occasionally I also pen down things around.        

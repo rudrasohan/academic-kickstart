@@ -33,6 +33,10 @@ subtitle = ""
     name = "Robotics"
     tag = "Robotics"
 
+  [[content.filter_button]]
+    name = "Computer Vision"
+    tag = "Computer Vision"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "4"
