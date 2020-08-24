@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Qualcomm"
+  organization_url = "https://www.qualcomm.com/"
+  title = "Winner Qualcomm Innovation Fellowship 2020"
+  url = "https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship/2020-india"
+  certificate_url = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "We were one of the winners of Qualcomm india fellowship for our project proposal on Texture Aware CNN for End-to-End Trainable Iris Recognition System. Our team was awarded a fellowship of ₹ 10,000,00"
+
 
 [[item]]
   organization = "Intelligent Ground Vehicle Competition(IGVC)"
